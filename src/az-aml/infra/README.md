@@ -1,5 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
-## Requirements
+<!-- ## Requirements
 
 No requirements.
 
@@ -21,5 +21,8 @@ No inputs.
 
 ## Outputs
 
-No outputs.
+No outputs. -->
 <!-- END_TF_DOCS -->
+
+## Solution Architecture
+![Solution Architecture](img/network-security-mlops-architecture_v4.png?raw=true "Solution Architecture")
